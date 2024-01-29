@@ -1,0 +1,97 @@
+{
+  "trace_id" : "242bef17ad41a1f8",
+  "message" : {
+    "title_idn" : "SUKSES",
+    "desc_idn" : "SUKSES",
+    "desc_eng" : "SUCCESS",
+    "title_eng" : "SUCCESS"
+  },
+  "timestamp" : "2024-01-29 12:14:22",
+  "data" : {
+    "company_code" : "9000",
+    "category_name" : "Kode Voucher StraBak",
+    "tran_code" : "6000",
+    "denomination_list" : [
+      {
+        "denomination_label_id" : "IDR 20,000",
+        "denomination_label_en" : "IDR 20,000",
+        "tax" : 0,
+        "denomination_amount" : 20000,
+        "voucher_denomination_id" : 1,
+        "voucher_product_id" : 2,
+        "saving_fee" : 0,
+        "current_fee" : 0,
+        "credit_card_fee" : 0,
+        "rekpon_fee" : 0,
+        "sku" : "SB01"
+      },
+      {
+        "denomination_label_id" : "IDR 50,000",
+        "denomination_label_en" : "IDR 50,000",
+        "tax" : 0,
+        "denomination_amount" : 50000,
+        "voucher_denomination_id" : 2,
+        "voucher_product_id" : 2,
+        "saving_fee" : 0,
+        "current_fee" : 0,
+        "credit_card_fee" : 0,
+        "rekpon_fee" : 0,
+        "sku" : "SB02"
+      },
+      {
+        "denomination_label_id" : "IDR 100,000",
+        "denomination_label_en" : "IDR 100,000",
+        "tax" : 0,
+        "denomination_amount" : 100000,
+        "voucher_denomination_id" : 3,
+        "voucher_product_id" : 2,
+        "saving_fee" : 0,
+        "current_fee" : 0,
+        "credit_card_fee" : 0,
+        "rekpon_fee" : 0,
+        "sku" : "SB03"
+      },
+      {
+        "denomination_label_id" : "IDR 150,000",
+        "denomination_label_en" : "IDR 150,000",
+        "tax" : 0,
+        "denomination_amount" : 150000,
+        "voucher_denomination_id" : 4,
+        "voucher_product_id" : 2,
+        "saving_fee" : 0,
+        "current_fee" : 0,
+        "credit_card_fee" : 0,
+        "rekpon_fee" : 0,
+        "sku" : "SB04"
+      },
+      {
+        "denomination_label_id" : "IDR 300,000",
+        "denomination_label_en" : "IDR 300,000",
+        "tax" : 0,
+        "denomination_amount" : 300000,
+        "voucher_denomination_id" : 5,
+        "voucher_product_id" : 2,
+        "saving_fee" : 0,
+        "current_fee" : 0,
+        "credit_card_fee" : 0,
+        "rekpon_fee" : 0,
+        "sku" : "SB05"
+      },
+      {
+        "denomination_label_id" : "IDR 500,000 ",
+        "denomination_label_en" : "IDR 500,000",
+        "tax" : 0,
+        "denomination_amount" : 500000,
+        "voucher_denomination_id" : 6,
+        "voucher_product_id" : 2,
+        "saving_fee" : 0,
+        "current_fee" : 0,
+        "credit_card_fee" : 0,
+        "rekpon_fee" : 0,
+        "sku" : "SB05"
+      }
+    ]
+  },
+  "response_key" : "SUCCESS",
+  "source_system" : "OCTOMOBILE_ID"
+}

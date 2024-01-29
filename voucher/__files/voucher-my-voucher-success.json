@@ -1,0 +1,45 @@
+{
+  "trace_id" : "242bef17ad41a1f8",
+  "message" : {
+    "title_idn" : "SUKSES",
+    "desc_idn" : "SUKSES",
+    "desc_eng" : "SUCCESS",
+    "title_eng" : "SUCCESS"
+  },
+  "timestamp" : "2024-01-29 12:14:22",
+  "data" : {
+    "voucher_list" : [
+      {
+        "image_header" : "imageHeader.png",
+        "image" : "image.png",
+        "amount" : "120000.00",
+        "expire_date" : "2024-12-01",
+        "voucher_code" : "2221 3123 1212 3211",
+        "voucher_name" : "StraBak",
+        "voucher_reference_number" : "22222222111110000",
+        "rate" : "0",
+        "serial_number" : "213141231231000",
+        "transaction_id" : "trx0000021",
+        "link_requirement" : "https://google.com",
+        "link_redemtion" : "https://google.com"
+      },
+      {
+        "image_header": "imageHeader.png",
+        "image": "image.png",
+        "amount": "100000.00",
+        "expire_date": "2024-03-01",
+        "voucher_code": "https://google.com/reedeem",
+        "voucher_name": "IDM Maret",
+        "voucher_reference_number": "22222222111110000",
+        "rate": "3",
+        "serial_number": "213141231231000",
+        "transaction_id": "trx0000021",
+        "link_requirement": "https://google.com",
+        "link_redemtion": "https://google.com",
+        "company_code" : "9000"
+      }
+    ]
+  },
+  "response_key" : "SUCCESS",
+  "source_system" : "OCTOMOBILE_ID"
+}

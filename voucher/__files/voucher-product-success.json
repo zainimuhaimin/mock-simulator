@@ -1,0 +1,43 @@
+{
+  "timestamp": "2024-01-26 15:13:32",
+  "trace_id": "02d612b1cfee5ac9",
+  "source_system": "OCTOMOBILE_ID",
+  "response_key": "SUCCESS",
+  "message": {
+    "title_idn": "SUKSES",
+    "title_eng": "SUCCESS",
+    "desc_idn": "SUKSES",
+    "desc_eng": "SUCCESS"
+  },
+  "data":
+  [
+    {
+      "voucher_product_id": 1,
+      "voucher_name": "GPLAY",
+      "image_header": "https://octomobile-uat.cimbniaga.co.id/octomobile/biller/menu/voucher/logo-google-header.png",
+      "image": "https://octomobile-uat.cimbniaga.co.id/octomobile/biller/menu/voucher/logo-google-menu.png",
+      "voucher_description": "GPLAY",
+      "priority": 1,
+      "rekpon_allowed": 1,
+      "current_allowed": 1,
+      "saving_allowed": 1,
+      "credit_card_allowed": 1,
+      "voucher_esb_category": "GOOGLE_PLAY",
+      "brand_code": ""
+    },
+    {
+      "voucher_product_id": 2,
+      "voucher_name": "STARBAK",
+      "image_header": "",
+      "image": "",
+      "voucher_description": "STRABAK",
+      "priority": 1,
+      "rekpon_allowed": 1,
+      "current_allowed": 1,
+      "saving_allowed": 1,
+      "credit_card_allowed": 1,
+      "voucher_esb_category": "ULTRA_VOUCHER",
+      "brand_code": "999"
+    }
+  ]
+}

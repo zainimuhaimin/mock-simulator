@@ -1,0 +1,89 @@
+{
+  "mappings" : [
+    {
+      "scenarioName": "ultra voucher get voucher product",
+      "request": {
+        "method": "POST",
+        "url": "/api/parameter/voucher/get"
+      },
+      "response": {
+        "status": 200,
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFileName": "voucher-product-success.json",
+        "transformers": [
+          "response-template"
+        ]
+      }
+    },
+    {
+      "scenarioName": "ultra voucher get voucher category",
+      "request": {
+        "method": "GET",
+        "url": "/api/parameter/voucher/get-category"
+      },
+      "response": {
+        "status": 200,
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFileName": "voucher-category-success.json",
+        "transformers": [
+          "response-template"
+        ]
+      }
+    },
+    {
+      "scenarioName": "ultra voucher get tnc",
+      "request": {
+        "method": "POST",
+        "url": "/api/purchase/voucher/general/tnc"
+      },
+      "response": {
+        "status": 200,
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFileName": "voucher-tnc-success.json",
+        "transformers": [
+          "response-template"
+        ]
+      }
+    },
+    {
+      "scenarioName": "ultra voucher get tnc",
+      "request": {
+        "method": "POST",
+        "url": "/api/parameter/voucher/denomination"
+      },
+      "response": {
+        "status": 200,
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFileName": "voucher-denomation-success.json",
+        "transformers": [
+          "response-template"
+        ]
+      }
+    },
+    {
+      "scenarioName": "ultra voucher get list my voucher",
+      "request": {
+        "method": "POST",
+        "url": "/api/purchase/voucher/myvoucher"
+      },
+      "response": {
+        "status": 200,
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFileName": "voucher-my-voucher-success.json",
+        "transformers": [
+          "response-template"
+        ]
+      }
+    }
+  ]
+}

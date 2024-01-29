@@ -1,0 +1,24 @@
+{
+  "timestamp": "2024-01-26 15:20:09",
+  "trace_id": "24cacb212c8affca",
+  "source_system": "OCTOMOBILE_ID",
+  "response_key": "SUCCESS",
+  "message": {
+    "title_idn": "SUCCESS",
+    "title_eng": "SUCCESS",
+    "desc_idn": "SUCCESS",
+    "desc_eng": "SUCCESS"
+  },
+  "data": [
+    {
+      "created_by": "SYSTEM",
+      "id": 1,
+      "voucher_categeory": "Game"
+    },
+    {
+      "created_by": "SYSTEM",
+      "id": 2,
+      "voucher_categeory": "FnB"
+    }
+  ]
+}
