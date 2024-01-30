@@ -23,7 +23,8 @@
       "saving_allowed": 1,
       "credit_card_allowed": 1,
       "voucher_esb_category": "GOOGLE_PLAY",
-      "brand_code": ""
+      "brand_code": "",
+      "company_code" : "9991"
     },
     {
       "voucher_product_id": 2,
@@ -37,7 +38,8 @@
       "saving_allowed": 1,
       "credit_card_allowed": 1,
       "voucher_esb_category": "ULTRA_VOUCHER",
-      "brand_code": "999"
+      "brand_code": "999",
+      "company_code" : "9922"
     }
   ]
 }
