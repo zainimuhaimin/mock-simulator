@@ -96,7 +96,7 @@
         "headers": {
           "Content-Type": "application/json"
         },
-        "bodyFileName": "voucher-my-voucher-success.json",
+        "bodyFileName": "voucher-my-voucher-history-success.json",
         "transformers": [
           "response-template"
         ]
