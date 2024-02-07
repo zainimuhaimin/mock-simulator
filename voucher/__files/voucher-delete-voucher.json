@@ -1,0 +1,13 @@
+{
+  "trace_id" : "242bef17ad41a1f8",
+  "message" : {
+    "title_idn" : "SUKSES",
+    "desc_idn" : "SUKSES",
+    "desc_eng" : "SUCCESS",
+    "title_eng" : "SUCCESS"
+  },
+  "timestamp" : "2024-01-29 12:14:22",
+  "data" : {},
+  "response_key" : "SUCCESS",
+  "source_system" : "OCTOMOBILE_ID"
+}

@@ -84,6 +84,23 @@
           "response-template"
         ]
       }
+    },
+    {
+      "scenarioName": "delete vouche",
+      "request": {
+        "method": "POST",
+        "url": "/api/purchase/voucher/delete"
+      },
+      "response": {
+        "status": 200,
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFileName": "voucher-delete-voucher.json",
+        "transformers": [
+          "response-template"
+        ]
+      }
     }
   ]
 }
