@@ -106,7 +106,7 @@
       "scenarioName": "delete vouche",
       "request": {
         "method": "POST",
-        "url": "/api/purchase/voucher/delete"
+        "url": "/api/purchase/voucher/general/delete"
       },
       "response": {
         "status": 200,
