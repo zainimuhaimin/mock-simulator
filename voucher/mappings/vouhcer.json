@@ -71,7 +71,7 @@
     {
       "scenarioName": "ultra voucher get list my voucher",
       "request": {
-        "method": "POST",
+        "method": "GET",
         "url": "/api/purchase/voucher/myvoucher"
       },
       "response": {
@@ -88,7 +88,7 @@
     {
       "scenarioName": "ultra voucher get list my history voucher",
       "request": {
-        "method": "POST",
+        "method": "GET",
         "url": "/api/purchase/voucher/myvoucherhistory"
       },
       "response": {
