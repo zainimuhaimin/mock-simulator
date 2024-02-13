@@ -1,13 +1,28 @@
 {
-  "trace_id" : "242bef17ad41a1f8",
-  "message" : {
-    "title_idn" : "SUKSES",
-    "desc_idn" : "SUKSES",
-    "desc_eng" : "SUCCESS",
-    "title_eng" : "SUCCESS"
+  "timestamp": "2024-01-22 08:17:09",
+  "trace_id": "b34ac297594cfb63",
+  "source_system": "OCTOMOBILE_ID",
+  "response_key": "SUCCESS",
+  "message": {
+    "title_idn": "SUKSES",
+    "title_eng": "SUCCESS",
+    "desc_idn": "SUKSES",
+    "desc_eng": "SUCCESS"
   },
-  "timestamp" : "2024-01-29 12:14:22",
-  "data" : {},
-  "response_key" : "SUCCESS",
-  "source_system" : "OCTOMOBILE_ID"
+  "data": {
+    "success": "2",
+    "failed": "0",
+    "list_voucher": [
+      {
+        "record_id": "1348781",
+        "voucher_esb_category": "ULTRA_VOUCHER",
+        "transaction_history_id": ""
+      },
+      {
+        "record_id": "",
+        "voucher_esb_category": "GOOGLE_VOUCHER",
+        "transaction_history_id": "000000078761"
+      },
+    ]
+  }
 }
