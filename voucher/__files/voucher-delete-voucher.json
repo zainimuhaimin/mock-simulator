@@ -11,18 +11,6 @@
   },
   "data": {
     "success": "2",
-    "failed": "0",
-    "list_voucher": [
-      {
-        "record_id": "1348781",
-        "voucher_esb_category": "ULTRA_VOUCHER",
-        "transaction_history_id": ""
-      },
-      {
-        "record_id": "",
-        "voucher_esb_category": "GOOGLE_VOUCHER",
-        "transaction_history_id": "000000078761"
-      }
-    ]
+    "failed": "0"
   }
 }
