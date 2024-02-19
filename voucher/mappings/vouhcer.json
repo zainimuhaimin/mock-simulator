@@ -103,7 +103,7 @@
       }
     },
     {
-      "scenarioName": "delete vouche",
+      "scenarioName": "delete voucher",
       "request": {
         "method": "POST",
         "url": "/api/purchase/voucher/general/delete"
@@ -114,6 +114,40 @@
           "Content-Type": "application/json"
         },
         "bodyFileName": "voucher-delete-voucher.json",
+        "transformers": [
+          "response-template"
+        ]
+      }
+    },
+    {
+      "scenarioName": "inquiry voucher",
+      "request": {
+        "method": "POST",
+        "url": "/api/purchase/voucher/inquiry"
+      },
+      "response": {
+        "status": 200,
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFileName": "voucher-inquiry-voucher.json",
+        "transformers": [
+          "response-template"
+        ]
+      }
+    },
+    {
+      "scenarioName": "payment or top up voucher",
+      "request": {
+        "method": "POST",
+        "url": "/api/purchase/voucher/payment"
+      },
+      "response": {
+        "status": 200,
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "bodyFileName": "voucher-payment-voucher.json",
         "transformers": [
           "response-template"
         ]

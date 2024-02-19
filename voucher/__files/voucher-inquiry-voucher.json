@@ -1,0 +1,27 @@
+{
+  "timestamp": "2024-01-22 08:17:09",
+  "trace_id": "b34ac297594cfb63",
+  "source_system": "OCTOMOBILE_ID",
+  "response_key": "SUCCESS",
+  "message": {
+    "title_idn": "SUKSES",
+    "title_eng": "SUCCESS",
+    "desc_idn": "SUKSES",
+    "desc_eng": "SUCCESS"
+  },
+  "data": {
+    "transaction_id" : "trx000000021",
+    "category_name" : "strabak",
+    "link_requirements" : "uv.co",
+    "amount" : "100000.00",
+    "fee" : "0.00",
+    "admin_fee" : "2500.00",
+    "total_amount" : "102500.00",
+    "currency" : "IDR",
+    "transaction_time" : "19-02-2024 14:31:20",
+    "reference_number"  : "0023111112323221",
+    "account_name" : "aladeeen",
+    "account_number" : "22312412****",
+    "expired_date" : "20-Nov-2024"
+  }
+}
