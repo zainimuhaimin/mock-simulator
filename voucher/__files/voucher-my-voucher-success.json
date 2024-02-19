@@ -8,6 +8,7 @@
   },
   "timestamp" : "2024-01-29 12:14:22",
   "data" : {
+    "is_all_voucher_loaded": false,
     "voucher_list" : [
       {
         "image_header" : "imageHeader.png",
