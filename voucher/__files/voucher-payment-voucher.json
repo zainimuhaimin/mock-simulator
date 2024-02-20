@@ -31,6 +31,8 @@
     "biller_name" : "STRABAKSS",
     "payee_code" : "9990",
     "from_favourite" : false,
-    "image_header" : "heeader.com"
+    "image_header" : "heeader.com",
+    "brand_code" : "ALD",
+    "voucher_esb_category": "ULTRA_VOUCHER"
   }
 }
