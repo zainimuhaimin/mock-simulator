@@ -10,7 +10,7 @@
     "desc_eng": "SUCCESS"
   },
   "data": {
-    "success": "2",
-    "failed": "0"
+    "delete_description_en":"1 Voucher has been deleted",
+    "delete_description_id":"1 Voucher berhasil dihapus"
   }
 }
