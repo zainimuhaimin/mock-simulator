@@ -10,7 +10,8 @@
     "desc_eng": "SUCCESS"
   },
   "data": {
-    "delete_description_en":"1 Voucher has been deleted",
-    "delete_description_id":"1 Voucher berhasil dihapus"
+    "is_success":true,
+    "delete_description_en":"Voucher has been successfully deleted",
+    "delete_description_id":"Voucher berhasil dihapus"
   }
 }
